@@ -32,7 +32,6 @@
 
 <ul align="left" style="padding-left: 30px; margin-bottom: 15px; line-height: 1.6;">
   <li style="margin-bottom: 5px;">🚀 <b>Current Focus:</b> Crafting web applications with Laravel framework & designing user-centered interface designs.</li>
-  <li>💡 <b>Leadership:</b> Served as the Head of Project for <i>"Himatifa Mengajar 2025"</i>, managing cross-functional educational teams.</li>
 </ul>
 
 <p align="center" style="color: #FFB6C1;">🌸 • ───────────────── • 🌸</p>
