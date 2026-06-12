@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/39908053/39908053/master/pink.gif" width="100%" alt="Header Banner" />
+</p>
+
 # <p align="center">🌸 Welcome to My Digital Space! 🌸</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ratna+👋;Informatics+Student+%40+UPN+Jatim;Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ratna+👋;Informatics+Student+%40+UPN+Jatim;Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,11 +21,11 @@
 ### 📖 About Me
 
 <p align="justify">
-  I am a passionate <b>Informatics Engineering Student (Semester 4)</b> at <b>UPN "Veteran" Jawa Timur</b> with a strong academic foundation (<b>GPA 3.70/4.00</b>). Currently, I am expanding my horizons and deep-diving into full-stack architecture and interactive interface creation through the <b>Dicoding Bootcamp - DBS Foundation Coding Camp</b>. I thrive on translating structural concepts into functional, scalable, and beautiful digital solutions.
+  I am an Informatics Engineering Student at UPN "Veteran" Jawa Timur currently in my 4th semester. I focus heavily on Web Development and UI/UX Design, actively building practical skills and modern architectures through the Dicoding Bootcamp - DBS Foundation Coding Camp.
 </p>
 
-- 🚀 **Current Focus:** Crafting elegant backend architecture with Laravel & designing immersive interface frameworks.
-- 💡 **Leadership & Initiatives:** Acted as the **Head of Project** for *"Himatifa Mengajar 2025"* at SMKN 2 Surabaya, directing cross-functional teams to deliver a 5-day educational program.
+- 🚀 **Current Focus:** Crafting web applications with Laravel framework & designing user-centered interface designs.
+- 💡 **Leadership:** Served as the Head of Project for *"Himatifa Mengajar 2025"*, managing cross-functional educational teams.
 
 <p align="center">🌸 • ───────────────── • 🌸</p>
 
@@ -43,17 +47,16 @@
 ### 📊 Engineering Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&theme=rose_pine&count_private=true&hide_border=false" alt="Ratna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&theme=rose_pine&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&title_color=fe8019&icon_color=fb4934&text_color=b8bb26&bg_color=fff0f5&hide_border=false" alt="Ratna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&title_color=fe8019&text_color=b8bb26&bg_color=fff0f5&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rratnaay&theme=rose_pine&hide_border=false" alt="Ratna's Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rratnaay&theme=default&background=fff0f5&ring=ffb6c1&fire=ff69b4&currStreakNum=ff1493&hide_border=false" alt="Ratna's Streak Stats" width="97%" />
 </p>
 
-<p align="center">🌸 • ───────────────── • 🌸</p>
+---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <b>Let's collaborate and build something impactful! ✨</b>
 </p>
