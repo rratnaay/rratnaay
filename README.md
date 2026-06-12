@@ -1,10 +1,13 @@
+<div style="background-color: #FFF0F5; border: 2px solid #FFB6C1; padding: 20px; border-radius: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A4A4A;">
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/39908053/39908053/master/pink.gif" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/39908053/39908053/master/pink.gif" width="100%" alt="Header Banner" style="border-radius: 8px;" />
 </p>
 
-# <p align="center">🌸 Welcome to My Digital Space! 🌸</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ratna+👋;Informatics+Student+%40+UPN+Jatim;Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+<h1 align="center" style="color: #DB7093; border: none; margin-top: 10px;">🌸 Welcome to My Digital Space! 🌸</h1>
+
+<p align="center" style="font-size: 16px; font-weight: bold; color: #C71585; margin-top: -5px;">
+  Informatics Student @ UPN Jatim | Web Developer & UI/UX Designer
 </p>
 
 <p align="center">
@@ -16,22 +19,22 @@
   </a>
 </p>
 
-<p align="center">🌸 • ───────────────── • 🌸</p>
+<p align="center" style="color: #FFB6C1;">🌸 • ───────────────── • 🌸</p>
 
-### 📖 About Me
-
-<p align="justify">
+<h3 style="color: #DB7093; margin-bottom: 8px;">📖 About Me</h3>
+<p align="justify" style="line-height: 1.6; margin-bottom: 10px;">
   I am an Informatics Engineering Student at UPN "Veteran" Jawa Timur currently in my 4th semester. I focus heavily on Web Development and UI/UX Design, actively building practical skills and modern architectures through the Dicoding Bootcamp - DBS Foundation Coding Camp.
 </p>
 
-- 🚀 **Current Focus:** Crafting web applications with Laravel framework & designing user-centered interface designs.
-- 💡 **Leadership:** Served as the Head of Project for *"Himatifa Mengajar 2025"*, managing cross-functional educational teams.
+<ul style="padding-left: 20px; margin-bottom: 15px;">
+  <li style="margin-bottom: 5px;">🚀 <b>Current Focus:</b> Crafting web applications with Laravel framework & designing user-centered interface designs.</li>
+  <li>💡 <b>Leadership:</b> Served as the Head of Project for <i>"Himatifa Mengajar 2025"</i>, managing cross-functional educational teams.</li>
+</ul>
 
-<p align="center">🌸 • ───────────────── • 🌸</p>
+<p align="center" style="color: #FFB6C1;">🌸 • ───────────────── • 🌸</p>
 
-### 🛠️ Tech Stack & Toolkit
-
-<p align="left">
+<h3 style="color: #DB7093; margin-bottom: 8px;">🛠️ Tech Stack & Toolkit</h3>
+<p align="left" style="margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,21 +45,18 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<p align="center">🌸 • ───────────────── • 🌸</p>
+<p align="center" style="color: #FFB6C1;">🌸 • ───────────────── • 🌸</p>
 
-### 📊 Engineering Metrics & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&title_color=fe8019&icon_color=fb4934&text_color=b8bb26&bg_color=fff0f5&hide_border=false" alt="Ratna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&title_color=fe8019&text_color=b8bb26&bg_color=fff0f5&hide_border=false" alt="Top Languages" width="48%" />
+<h3 style="color: #DB7093; margin-bottom: 12px;">📊 Engineering Metrics</h3>
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&title_color=DB7093&icon_color=E91E63&text_color=4A4A4A&bg_color=FFF0F5&hide_border=true" alt="Ratna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&title_color=DB7093&text_color=4A4A4A&bg_color=FFF0F5&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rratnaay&theme=default&background=fff0f5&ring=ffb6c1&fire=ff69b4&currStreakNum=ff1493&hide_border=false" alt="Ratna's Streak Stats" width="97%" />
+<p align="center" style="color: #FFB6C1; margin-top: 15px;">🌸 • ───────────────── • 🌸</p>
+
+<p align="center" style="font-size: 14px; font-weight: bold; color: #DB7093;">
+  Let's collaborate and build something impactful! ✨
 </p>
 
----
-
-<p align="center">
-  <b>Let's collaborate and build something impactful! ✨</b>
-</p>
+</div>
