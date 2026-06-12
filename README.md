@@ -1,6 +1,6 @@
-# <p align="center">✨ Welcome to My Digital Space! ✨</p>
+# <p align="center">🌸 Welcome to My Digital Space! 🌸</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ratna+👋;Informatics+Student+%40+UPN+Jatim;Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ratna+👋;Informatics+Student+%40+UPN+Jatim;Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+<p align="center">🌸 • ───────────────── • 🌸</p>
 
 ### 📖 About Me
 
@@ -23,7 +23,7 @@
 - 🚀 **Current Focus:** Crafting elegant backend architecture with Laravel & designing immersive interface frameworks.
 - 💡 **Leadership & Initiatives:** Acted as the **Head of Project** for *"Himatifa Mengajar 2025"* at SMKN 2 Surabaya, directing cross-functional teams to deliver a 5-day educational program.
 
----
+<p align="center">🌸 • ───────────────── • 🌸</p>
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -38,20 +38,20 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+<p align="center">🌸 • ───────────────── • 🌸</p>
 
 ### 📊 Engineering Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&theme=calm&count_private=true&hide_border=false" alt="Ratna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&theme=calm&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rratnaay&show_icons=true&theme=rose_pine&count_private=true&hide_border=false" alt="Ratna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratnaay&layout=compact&theme=rose_pine&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rratnaay&theme=calm&hide_border=false" alt="Ratna's Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rratnaay&theme=rose_pine&hide_border=false" alt="Ratna's Streak Stats" width="97%" />
 </p>
 
----
+<p align="center">🌸 • ───────────────── • 🌸</p>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
